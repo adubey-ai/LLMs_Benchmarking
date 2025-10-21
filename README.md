@@ -1,2 +1,1 @@
-# Benchmarking-llms-on-gaudi
-MTP project on Benchmarking LLMs on Intel Habana Gaudi architecture.
+# LLMs benchmarking on Intel Accelerator Gaudi Gaudi2 and Gaudi3
